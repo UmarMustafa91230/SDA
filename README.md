@@ -17,6 +17,8 @@ Run ObserverPatternDemo.java
 Observe output showing:
 Initial state change notifications to all observers
 Second state change after detaching the OctalObserver
+
+
 **Question 2: Event Management System with SMS Support**
 Overview
 This implementation extends the Refactoring.Guru event management example with SMS notification support, including SMS length validation.
